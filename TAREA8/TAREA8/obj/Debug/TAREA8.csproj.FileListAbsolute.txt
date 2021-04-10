@@ -1,0 +1,10 @@
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\bin\Debug\TAREA8.exe.config
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\bin\Debug\TAREA8.exe
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\bin\Debug\TAREA8.pdb
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.csprojAssemblyReference.cache
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.Form1.resources
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.Properties.Resources.resources
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.csproj.GenerateResource.cache
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.exe
+C:\Users\Fernando Olivares\source\repos\TAREA8\TAREA8\obj\Debug\TAREA8.pdb
